@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Wallpoet&display=swap');
+button{
+    background-color: aquamarine;
+  }
+  .pokemon-item{
+    font-family: 'Wallpoet', cursive; 
+    font-size:50px;
+    display: flex;
+    align-items: center;
+  }
+  .imagen{
+      width: 150px;
+     border: 15px;
+     border-color: black;
+  }
