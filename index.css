@@ -4,12 +4,12 @@ button{
   }
   .pokemon-item{
     font-family: 'Wallpoet', cursive; 
-    font-size:50px;
+    /* font-size:50px; */
     display: flex;
     align-items: center;
   }
   .imagen{
-      width: 150px;
-     border: 15px;
-     border-color: black;
+      /* width: 150px;
+      border: 15px; */
+      border-color: black;
   }
